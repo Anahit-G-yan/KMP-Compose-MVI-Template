@@ -1,0 +1,7 @@
+<resources>
+    <string name="action_retry">Retry</string>
+    <string name="status_alive">Alive</string>
+    <string name="status_dead">Dead</string>
+    <string name="status_unknown">Unknown</string>
+    <string name="error_generic">Something went wrong</string>
+</resources>
